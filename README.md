@@ -1,10 +1,2 @@
-# editrjs
-**A simple javascript plugin to transform any div element into medium style editor.**
-
-## Features
-1. Spits out json object as written article
-2. Customizable Elements
-3. Embed support
-4. Quick initialization
-5. Lightweight
-
+# ng-editr
+**A simple angular 2 directive to transform any element into medium style editor.**
