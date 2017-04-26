@@ -1,2 +1,7 @@
-# ng-editr
-**A simple angular 2 directive to transform div elements into medium style editor.**
+# editr
+**A simple tool to transform div elements into medium style editor.**
+Available in:
+- Jquery (coming soon)
+- Angular 1.x (coming soon)
+- Angular 2 (coming soon)
+
