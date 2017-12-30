@@ -1,7 +1,4 @@
 # editr
-**A simple tool to transform div elements into medium style editor.**
-### Available in:
-- Jquery 3.x (coming soon)
-- Angular 1.x (coming soon)
-- Angular 2 (coming soon)
+Medium style editor as a resuable React component.
+
 
